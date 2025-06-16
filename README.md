@@ -236,9 +236,6 @@ Projekt in Entwicklung - Komponenten werden beschafft
 - Strömung: 0-5m/s
 - Wassertiefe: 0-50m
 
-## Hinweis
-Beide Schnurlauf-Erfassungsoptionen werden dokumentiert. Die finale Implementierung kann je nach Test-Ergebnissen und Präferenz gewählt werden.
-
 ## App-Funktionen (geplant)
 - Cross-Platform (Android & iOS)
 - Offline-Funktionalität
